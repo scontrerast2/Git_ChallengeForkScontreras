@@ -9,3 +9,6 @@ class Calculator:
         if b == 0:
             raise ValueError("Cannot divide by zero.")
         return a / b
+
+
+## This is a not related Commit, remenber how to just fetch one commit without all the others.
